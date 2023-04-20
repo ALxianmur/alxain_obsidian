@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32/PID控制入门/PID控制入门.md",
+                "file": "STM32/初始stm32/初始stm32.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "734e29f9390220d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "杂项/note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Blog",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STM32/PID控制入门/PID控制入门.md",
+                "file": "杂项/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STM32/PID控制入门/PID控制入门.md",
+                "file": "杂项/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32/PID控制入门/PID控制入门.md"
+                "file": "杂项/note.md"
               }
             }
           }
@@ -146,35 +159,38 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ad2ec1bc9f4c05bc",
+  "active": "734e29f9390220d3",
   "lastOpenFiles": [
-    "STM32/PID控制入门/PPT/~$PID基础入门：视频PPT.pptx",
-    "opencv/红绿灯.md",
-    "README.md",
+    "STM32/初始stm32/初始stm32.md",
+    "杂项/note.md",
+    "杂项",
+    "STM32/初始stm32/PDF/STM32中文参考手册_V10.pdf",
+    "STM32/初始stm32/IMAGE/STM32产品命名规则.png",
     "STM32/PID控制入门/PID控制入门.md",
-    "opencv",
-    "Blog/科学上网后UWP应用连不了网的解决方法/界面.png",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "2023-04-05.md",
+    "ROS/Ros的核心概念.md",
+    "opencv/红绿灯识别.md",
+    "ROS/ROS简介.md",
+    "ROS/ROS.md",
     "Blog/科学上网后UWP应用连不了网的解决方法/Readme.md",
-    "Blog/科学上网后UWP应用连不了网的解决方法/Fiddler 4界面.png",
-    "Blog/科学上网后UWP应用连不了网的解决方法/界面.png",
+    "STM32/PID控制入门/PDF/PID基础入门：开发手册.pdf",
+    "STM32/PID控制入门/PDF",
+    "README.md",
     "Blog/科学上网后UWP应用连不了网的解决方法/step1.png",
+    "Blog/科学上网后UWP应用连不了网的解决方法/Fiddler 4界面.png",
+    "Blog/科学上网后UWP应用连不了网的解决方法/初始界面.png",
+    "STM32/PID控制入门/IMAGE/位置式PID.png",
+    "STM32/PID控制入门/PPT/~$PID基础入门：视频PPT.pptx",
+    "opencv",
     "Blog/未命名.md",
     "Blog/科学上网后UWP应用连不了网的解决方法",
-    "STM32/初始stm32/PDF/STM32中文参考手册_V10.pdf",
     "blog.md",
     "Blog",
     "STM32/PID控制入门/IMAGE/增量式PID.png",
-    "STM32/PID控制入门/IMAGE/位置式PID.png",
     "STM32/PID控制入门/PPT/PID基础入门：视频PPT.pptx",
     "~$PID基础入门：视频PPT.pptx",
-    "STM32/初始stm32/IMAGE/Pasted image 20230401164421.png",
-    "STM32/初始stm32/IMAGE",
-    "STM32/初始stm32/初始stm32.md",
-    "STM32/PID控制入门/IMAGE",
-    "STM32/PID控制入门",
-    "STM32/初始stm32/PDF",
-    "ROS/ROS简介.md",
-    "ROS/Ros的核心概念.md",
     "123.md"
   ]
 }
