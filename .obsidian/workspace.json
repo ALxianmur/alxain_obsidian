@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32/初始stm32/初始stm32.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e421c60f069fef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "杂项/惯性导航系统.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1178f3f281cffea6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "杂项/惯性导航系统.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87b32141a051e9e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读后感&观后感/死亡诗社.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c4f9c9badd7b5bb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS/Ros的核心概念.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -77,6 +125,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "32420fffc8ab51d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -98,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS/ROS简介.md",
+                "file": "读后感&观后感/死亡诗社.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +171,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS/ROS简介.md",
-                "linksCollapsed": false,
+                "file": "读后感&观后感/死亡诗社.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -138,11 +194,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS/ROS简介.md"
+                "file": "读后感&观后感/死亡诗社.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -156,42 +213,47 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "778654cddb8f4739",
+  "active": "87b32141a051e9e0",
   "lastOpenFiles": [
-    "slam",
+    "杂项/惯性导航系统.md",
+    "读后感&观后感/死亡诗社.md",
+    "读后感&观后感",
+    "杂项/NPN、PNP型三极管的工作原理是什么？.md",
+    "杂项/P&N型半导体的内在逻辑.md",
+    "ROS/ROS简介.md",
     "ROS/Ros的核心概念.md",
-    "杂项/note.md",
-    "README.md",
+    "Blog/科学上网后UWP应用连不了网的解决方法/Readme.md",
+    "Blog/科学上网后UWP应用连不了网的解决方法/Fiddler 4界面.png",
     "Blog/科学上网后UWP应用连不了网的解决方法/初始界面.png",
-    "STM32/初始stm32/初始stm32.md",
-    "杂项",
-    "STM32/初始stm32/PDF/STM32中文参考手册_V10.pdf",
-    "STM32/初始stm32/IMAGE/STM32产品命名规则.png",
+    "2023-06-19.md",
+    "杂项/心理健康.md",
     "STM32/PID控制入门/PID控制入门.md",
+    "STM32/PID控制入门/PDF/PID基础入门：开发手册.pdf",
+    "STM32/PID控制入门/IMAGE/增量式PID.png",
+    "STM32/PID控制入门/IMAGE/位置式PID.png",
+    "STM32/初识stm32/初识stm32.md",
+    "STM32/初识stm32/PDF/STM32中文参考手册_V10.pdf",
+    "opencv/红绿灯识别.md",
+    "slam",
+    "README.md",
+    "杂项",
+    "STM32/初识stm32/IMAGE/STM32产品命名规则.png",
     "未命名 1.canvas",
     "未命名.canvas",
     "2023-04-05.md",
-    "opencv/红绿灯识别.md",
-    "ROS/ROS简介.md",
     "ROS/ROS.md",
-    "Blog/科学上网后UWP应用连不了网的解决方法/Readme.md",
-    "STM32/PID控制入门/PDF/PID基础入门：开发手册.pdf",
     "STM32/PID控制入门/PDF",
     "Blog/科学上网后UWP应用连不了网的解决方法/step1.png",
-    "Blog/科学上网后UWP应用连不了网的解决方法/Fiddler 4界面.png",
-    "STM32/PID控制入门/IMAGE/位置式PID.png",
     "STM32/PID控制入门/PPT/~$PID基础入门：视频PPT.pptx",
     "opencv",
     "Blog/未命名.md",
     "Blog/科学上网后UWP应用连不了网的解决方法",
     "blog.md",
     "Blog",
-    "STM32/PID控制入门/IMAGE/增量式PID.png",
-    "STM32/PID控制入门/PPT/PID基础入门：视频PPT.pptx",
-    "~$PID基础入门：视频PPT.pptx",
     "123.md"
   ]
 }
