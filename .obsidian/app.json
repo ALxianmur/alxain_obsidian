@@ -1,4 +1,5 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "STM32/PID控制入门/PDF"
 }
