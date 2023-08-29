@@ -35,8 +35,12 @@
             "id": "1178f3f281cffea6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -114,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ],
@@ -170,25 +178,26 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
       "obsidian-memos:Memos": false
     }
   },
   "active": "1178f3f281cffea6",
   "lastOpenFiles": [
-    "好乱的知识/P&N型半导体的内在逻辑.md",
-    "好乱的知识/惯性导航系统.md",
+    "读后感&观后感/死亡诗社.md",
+    "2023-06-26.md",
+    "README.md",
     "好乱的知识/NPN、PNP型三极管的工作原理是什么？.md",
+    "好乱的知识/惯性导航系统.md",
+    "好乱的知识/P&N型半导体的内在逻辑.md",
+    "2023-06-19.md",
     "Blog/科学上网后UWP应用连不了网的解决方法/step1.png",
     "Blog/科学上网后UWP应用连不了网的解决方法/Readme.md",
     "Blog/科学上网后UWP应用连不了网的解决方法/Fiddler 4界面.png",
     "Blog/科学上网后UWP应用连不了网的解决方法/初始界面.png",
-    "README.md",
-    "2023-06-19.md",
-    "2023-06-26.md",
     "未命名 2.canvas",
     "未命名.canvas",
     "未命名 1.canvas",
-    "读后感&观后感/死亡诗社.md",
     "读后感&观后感",
     "ROS/ROS简介.md",
     "ROS/Ros的核心概念.md",
