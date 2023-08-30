@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1178f3f281cffea6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "好乱的知识/惯性导航系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "好乱的知识/惯性导航系统.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "好乱的知识/惯性导航系统.md"
               }
             }
           }
@@ -182,11 +170,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "1178f3f281cffea6",
+  "active": "1e421c60f069fef1",
   "lastOpenFiles": [
+    "README.md",
     "读后感&观后感/死亡诗社.md",
     "2023-06-26.md",
-    "README.md",
     "好乱的知识/NPN、PNP型三极管的工作原理是什么？.md",
     "好乱的知识/惯性导航系统.md",
     "好乱的知识/P&N型半导体的内在逻辑.md",
